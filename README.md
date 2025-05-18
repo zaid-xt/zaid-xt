@@ -24,8 +24,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - **Continuous Learning**: I keep up with new tools, frameworks, and best practices to improve my skills.
 - **Collaboration**: I work well with teams, ensuring clear communication and high-quality results.
 
+---
 
-  
+### 👨‍💻 **Software Development Projects:**
+
+
 ---
 
 ### 📫 **How to Reach Me:**
