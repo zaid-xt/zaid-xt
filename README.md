@@ -1,6 +1,6 @@
 # Hi, I'm Zaid 👋
 
-### Software Developer
+### Software Developer | Student
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on building efficient, scalable, and user-friendly applications. I enjoy working with both front-end and back-end technologies, as well as creating intuitive designs.
 
