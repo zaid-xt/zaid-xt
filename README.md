@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ### 🔧 **Technologies I Work With:**
 
-- **Languages**: JavaScript, HTML, CSS, Java, Python, SQL
+- **Languages**: JavaScript, HTML, CSS, Java, Python, SQL, Typescript
 - **Version Control**: Git, GitHub, GitLab
 - **Design Tools**: Figma
 
