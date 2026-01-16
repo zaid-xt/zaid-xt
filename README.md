@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ---
 
 ### 👨‍💻 **Software Development Projects:**
-- [FootPrint – HTML, CSS, JavaScript Project](https://github.com/zaid-xt/FootPrint)  
-  > A responsive website showcasing dynamic features built with HTML5, CSS3, and JavaScript.
+- [Business Finance Management System – HTML, CSS, JavaScript Project](https://github.com/zaid-xt/BusinessFinanceManagementSystem)   
+  > A responsive business finance management system showcasing dynamic features built with TypeScript.
 
 - [ADP3 Capstone Project – Java Repository](https://github.com/zaid-xt/ADP3_capstone_project)  
   > A Java-based application structured using Domain-Driven Design (DDD).
