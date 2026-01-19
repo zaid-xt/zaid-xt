@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-## 🔧 Technologies & Tools
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Technologies & Tools Technologies & Tools 
 
-### 🧠 Programming Languages
+### 🧠 Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-## 💡 What I Do
+## <img src="https://media.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width="30px" /> What I Do
 
 - **Front-End Development** – Responsive and user-friendly web applications
 - **Back-End Development** – Scalable systems using Java, Python, SQL, and Firebase
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-## 👨‍💻 Software Development Projects
+## <img src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width="25px" /> Software Development Projects
 
 🔹 **Business Finance Management System**  
 [🔗 View Repository](https://github.com/zaid-xt/BusinessFinanceManagementSystem)  
@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-## 📫 How to Reach Me
+##  <img src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" width="35px" /> How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theunissenzaid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-theunissen-2216b7263/)
