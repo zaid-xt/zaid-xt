@@ -1,6 +1,6 @@
 # Hi, I'm Zaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 
-### 💻 Graduate Software Developer
+### <img src="https://media.tenor.com/jx2pAv9tA0oAAAAi/work-school.gif" width="30px" /> Graduate Software Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer focused on building efficient, scalable, and user-friendly applications. I enjoy working across both front-end and back-end technologies while creating intuitive user experiences.
 
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-## <img src="https://media.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width="30px" /> What I Do
+## <img src="https://media.tenor.com/f6b0SIB-MpsAAAAi/light-bulb-bulb.gif" width="25px" /> What I Do
 
 - **Front-End Development** – Responsive and user-friendly web applications
 - **Back-End Development** – Scalable systems using Java, Python, SQL, and Firebase
@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
-##  <img src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" width="35px" /> How to Reach Me
+## <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif" width="30px" /> How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theunissenzaid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-theunissen-2216b7263/)
