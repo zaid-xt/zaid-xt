@@ -1,6 +1,6 @@
-# Hi, I'm Zaid 👋
+# Hi, I'm Zaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 
-### 💻 Software Developer | Graduate
+### 💻 Graduate Software Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer focused on building efficient, scalable, and user-friendly applications. I enjoy working across both front-end and back-end technologies while creating intuitive user experiences.
 
@@ -79,6 +79,5 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theunissenzaid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-theunissen-2216b7263/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-xt)
-
 
 ---
