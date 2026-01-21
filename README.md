@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 🔹 **Business Finance Management System**  
 [🔗 View Repository](https://github.com/zaid-xt/BusinessFinanceManagementSystem)  
-> Responsive finance management system built with TypeScript, HTML, and CSS.
+> Responsive finance management system built with TypeScript.
 
 🔹 **ADP3 Capstone Project (Java)**  
 [🔗 View Repository](https://github.com/zaid-xt/ADP3_capstone_project)  
